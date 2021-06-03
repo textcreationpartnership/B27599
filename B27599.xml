@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Olimpya's unfortunate love: or Gallius his treacherous cruelty. A new song, as it is sung in a play, called, The Spanish fryer. At the Dukes theatre, with great applause. Fairest Olimpia at last being won, did yield to Gallius, who has her undone, her honour's lost, and he does her neglect his ends being gain'd he shews her no respect: but flies her arms, whilst that false man she crys, and in her blood her fatal dagger dyes. To a pleasant new play-house tune.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27599</idno><idno type="EEBO-CITATION">99888110</idno>
+  <idno type="VID">193168</idno>
+  <idno type="EEBO-PROQUEST">2240885419</idno>
+  
+            <idno type="STC">Wing O289</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[26]</idno>
+            <idno type="STC">ESTC R229030</idno>
+            <idno type="PROQUEST">ocm99888110</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888110e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193168)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Olimpya's unfortunate love: or Gallius his treacherous cruelty. A new song, as it is sung in a play, called, The Spanish fryer. At the Dukes theatre, with great applause. Fairest Olimpia at last being won, did yield to Gallius, who has her undone, her honour's lost, and he does her neglect his ends being gain'd he shews her no respect: but flies her arms, whilst that false man she crys, and in her blood her fatal dagger dyes. To a pleasant new play-house tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, at the Angel in Guilt-spur-street without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Farewel ungrateful traytor,".</note>
+                  <note>Imperfect: heavily stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193168:1"/>
+            <head>OLIMPYA'S Unfortunate Love: OR GALLIUS <hi>his Treacherous Cruelty.</hi> A new Song, as it is Sung in a <hi>Play,</hi> called, The <hi>Spanish Fryer.</hi> At the Dukes Theatre, with great applause.</head>
+            <argument>
+               <l>Fairest <hi>Olimpia</hi> at last being won,</l>
+               <l>Did yield to <hi>Gallius,</hi> who has her undone,</l>
+               <l>Her Honour's lost, and he does her Neglect</l>
+               <l>His ends being gain'd he shews her no respect:</l>
+               <l>But flies her arms, whilst that false Man she crys,</l>
+               <l>And in her Blood her fatal Dagger dyes.</l>
+            </argument>
+            <opener>To a pleasant new Play-House Tune.</opener>
+            <p>
+               <figure>
+                  <figDesc>man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>FArewel ungrateful Traytor,</l>
+               <l>farewel my Perjur'd Swain;</l>
+               <l>Let never injur'd Creature,</l>
+               <l>believe a Man again:</l>
+               <l>The pleasure of possessing,</l>
+               <l>Surpasses all expressing,</l>
+               <l>But 'tis too short a Blessing,</l>
+               <l>and love too long a pain.</l>
+            </lg>
+            <lg>
+               <l>'Tis easie to deceive us,</l>
+               <l>in pitty of your pain,</l>
+               <l>But when we love, you leave us,</l>
+               <l>to rail at you in vain:</l>
+               <l>Before we have discry'd it,</l>
+               <l>There is no Bliss beside it,</l>
+               <l>But she that once has try'd it,</l>
+               <l>will never love again.</l>
+            </lg>
+            <lg>
+               <l>The passion you pretended,</l>
+               <l>was only to obtain,</l>
+               <l>But when the Charm is ended,</l>
+               <l>the Charmer you disdain:</l>
+               <l>Your love by ours we measure</l>
+               <l>Till we have left our Treasure,</l>
+               <l>But dying is a Ple<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sure,</l>
+               <l>when living is a pain.</l>
+            </lg>
+            <lg>
+               <l>For who would live in Torment,</l>
+               <l>to be each moment slain;</l>
+               <l>By flames of love so fervent,</l>
+               <l>enrag'd by mans disdain:</l>
+               <l>When death has power to ease us,</l>
+               <l>Of all the woes that seize us,</l>
+               <l>And sorrows that displease us,</l>
+               <l>so ne'r to grieve again.</l>
+            </lg>
+            <lg>
+               <l>No Torture's like to loving,</l>
+               <l>and not belov'd again,</l>
+               <l>Yet we are oft approving,</l>
+               <l>of such a fatal bane:</l>
+               <l>By crediting their wishes,</l>
+               <l>Their Toying and their Kisses,</l>
+               <l>Which do but raise our Blisses,</l>
+               <l>to fall beneath disdain.</l>
+            </lg>
+            <lg>
+               <l>They only are for pleasure,</l>
+               <l>our Honours so to stain,</l>
+               <l>Then let us grieve at leisure,</l>
+               <l>they'l Laugh when we complain</l>
+               <l>And still will prove more cruel,</l>
+               <l>By adding of new Fuel,</l>
+               <l>In which they think they do well,</l>
+               <l>to Martyr us with pain.</l>
+            </lg>
+            <lg>
+               <l>Whilst like the Phenix frying,</l>
+               <l>we in sweet Gums remain,</l>
+               <l>They triumph in our Dying,</l>
+               <l>and boast they Trophies gain:</l>
+               <l>But cruel man 'tis faded,</l>
+               <l>Since you my Love invaded,</l>
+               <l>I will not be upbraided,</l>
+               <l>first Death shall end my pain.</l>
+            </lg>
+            <lg>
+               <l>O witness all ye powers,</l>
+               <l>how he my Love did gain,</l>
+               <l>Whilst oft in shady Bowers,</l>
+               <l>he swore he wou'd remain</l>
+               <l>The constantest of Lovers,</l>
+               <l>But now my Loss discovers,</l>
+               <l>How black my fate it hovers,</l>
+               <l>and how his vows were vain.</l>
+            </lg>
+            <lg>
+               <l>With that a sigh the breathed,</l>
+               <l>whilst in her breast the flame.</l>
+               <l>Did struggle to be eased,</l>
+               <l>when ah, she did proclaim:</l>
+               <l>Too Cruel <hi>Galius</hi> flying,</l>
+               <l>When thy <hi>Olimpia's</hi> Dying,</l>
+               <l>With gloomy Eyes then eying</l>
+               <l>each corner of the Plain.</l>
+            </lg>
+            <lg>
+               <l>When as the Deaths keen message,</l>
+               <l>out of her Bosom drew,</l>
+               <l>And gave it speedy passage,</l>
+               <l>her Life for to subdue:</l>
+               <l>Then cry'd false Man, her passion,</l>
+               <l>Who first for you took Station,</l>
+               <l>Fate weds past alteration,</l>
+               <l>
+                  <hi>Olympia</hi> Dyes for you.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> J Deacon, <hi>at the</hi> Angel <hi>in</hi> Guilt-spur-street <hi>without</hi> Newgate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
